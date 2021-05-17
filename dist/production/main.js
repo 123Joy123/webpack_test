@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("fn1"),console.log({username:"ss"})})();
