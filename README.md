@@ -1,5 +1,16 @@
 # webpack_test学习笔记
 
+## 基本组成
+
+* 入口
+
+* 输出
+
+* loader：webpack本身只支持js和json，像sass这样的就需要解析
+
+* 插件（plugin）：增强型模块
+* 模式（mode）：开发环境development、生产环境producion、none
+
 ## 文件
 
 webpack.config.js-------------webpack配置文件
