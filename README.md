@@ -6,7 +6,7 @@
 
 * 输出
 
-* loader：webpack本身只支持js和json，像sass这样的就需要解析
+* loader：webpack本身只支持js和json，其他需要转换
 
 * 插件（plugin）：增强型模块
 * 模式（mode）：开发环境development、生产环境producion、none
